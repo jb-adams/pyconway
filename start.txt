@@ -1,0 +1,5 @@
+#run idle, then copy/paste the commands below to update all paths
+import sys
+import pygame
+sys.path.append("/Users/jadams/Documents/github/pyconway")
+from pyconway.pyconway import PyConway
